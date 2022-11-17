@@ -1,0 +1,11 @@
+삼성SDI:006400.KS
+현대차:005380.KS
+삼성바이오로직스:207940.KS
+China Construction Bank Co:0939.HK
+아모레퍼시픽:090430.KS
+MicroSoft:MSFT
+LG화학:051910.KS
+ICBC:1398.HK
+PetroChina Company:601857.SS
+Tesla:TSLA
+Apple:AAPL

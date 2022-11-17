@@ -1,8 +1,0 @@
-Apple:AAPL
-China Construction Bank Co:0939.HK
-아모레퍼시픽:090430.KS
-MicroSoft:MSFT
-Tesla:TSLA
-LG화학:051910.KS
-PetroChina Company:601857.SS
-ICBC:1398.HK

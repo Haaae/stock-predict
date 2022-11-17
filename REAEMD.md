@@ -4,14 +4,13 @@
 
 ## TODO
 
-- tmp stock 모델 최적화
 
 ## 아나콘다 가상환경 설정
 
-- conda 설치 패키지
+- pip 패키지 저장
 
 ~~~
- > conda env create -f conda_requirements.txt
+ > pip freeze > pip_requirements.txt
 ~~~
 
 - pip 설치 패키지
