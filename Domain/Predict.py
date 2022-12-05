@@ -11,9 +11,10 @@ def main():
     warnings.filterwarnings("ignore")
 
     # Hyper Parameter
-    date_time = datetime.now().strftime("%Y_%m_%d")   # 학습 시작 시간
+    # 원하는 마지막 날짜 + 1일
+    date_time = datetime(2022, 12, 5).strftime("%Y_%m_%d") # datetime.now().strftime("%Y_%m_%d")   # 학습 시작 시간
     start = datetime(2015, 1, 1)    # 주식 기간 2015
-    end = datetime.today()     # 주식 기간
+    end = datetime(2022, 12, 6)
     seq_len = 5
     stocks_path_10per = ".\\stocks\\testRate_10per.txt"
     stocks_path_20per = ".\\stocks\\testRate_20per.txt"

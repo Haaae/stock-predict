@@ -21,7 +21,7 @@ def load_data(stock, start, end, seq_len, test_rate):
 # 주식 데이터 가져오기
 def _get_data(stock, start, end):
 
-    df = yf.download(stock, start=start)
+    df = yf.download(stock, start=start, end=end)
     df.drop(['Adj Close'], axis=1, inplace=True)
     return df
 
